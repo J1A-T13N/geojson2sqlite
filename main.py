@@ -105,3 +105,4 @@ if __name__ == "__main__":
     longitude = 23.760542
     nearby_town = coords_to_town(sqlite_db, latitude, longitude)
     print(f"附近鄉鎮: {nearby_town}")
+    

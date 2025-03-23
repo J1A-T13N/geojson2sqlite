@@ -13,7 +13,8 @@
             "console": "integratedTerminal",
             "python": "${workspaceFolder}/.venv/Scripts/python.exe",
             "env": {
-                "PATH": "${workspaceFolder};${env:PATH}"
+                "AUTHOR": "GJ Smart Tech",
+                "PATH": "C:\\Program Files\\Spatialite;${env:PATH}"
             }
         }
     ]
